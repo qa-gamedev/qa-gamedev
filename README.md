@@ -1,6 +1,6 @@
 # Привет! Я Иван Пучков 👋
 
-### Game QA Engineer | Manual QA | Android | Unity / C#
+### Game QA Engineer | Manual QA | Android
 
 Занимаюсь ручным тестированием игр и самостоятельной разработкой игровых проектов на Unity и Roblox. Проверяю игровые механики, прогрессию, сохранения, интерфейс и сценарии монетизации. Для диагностики использую ADB/logcat, Unity Console и Roblox Output Log. Опыт разработки помогает мне разбираться в игровой логике, анализировать ошибки в собственных Unity-проектах и проверять исправления в последующих сборках.
 
@@ -24,10 +24,11 @@
 
 ## 👾 Unity / C# — игровые проекты
 
-* **[Turn It!](https://github.com/qa-gamedev/turnit-hypercasual-game)** — гиперказуальная головоломка на реакцию и тайминг. Ранее публиковалась на Яндекс Играх; в портфолио используется сборка без рекламных SDK.
-* **[Geometry Shooter](https://github.com/qa-gamedev/geometry-shooter-prototype)** — [играть в браузере](https://qa-gamedev.github.io/geometry-shooter-prototype/). Прототип 2D-шутера с волнами противников, разными моделями поведения врагов, магазином оружия и системой улучшений.
-* **[Space Conqueror](https://github.com/qa-gamedev/space-conqueror-shooter)** — [играть в браузере](https://qa-gamedev.github.io/space-conqueror-shooter/). Вертикальный космический шутер с элементами RPG, несколькими режимами, умениями и системой прокачки.
-* **[Labyrinth: Gravity Maze](https://github.com/qa-gamedev/unity-gravitymaze-game)** — головоломка с процедурной генерацией лабиринтов и управлением гравитацией. Архивная WebGL-сборка проекта, ранее опубликованного в Google Play.
+* **[Turn It!](https://github.com/qa-gamedev/turnit-hypercasual-game)** — [Играть в браузере](https://qa-gamedev.github.io/turnit-hypercasual-game/). Гиперказуальная головоломка на реакцию и тайминг, ранее публиковавшаяся на Яндекс Играх. Текущая портфолио-сборка не содержит рекламных SDK.
+* **[Geometry Shooter](https://github.com/qa-gamedev/geometry-shooter-prototype)** — [Играть в браузере](https://qa-gamedev.github.io/geometry-shooter-prototype/). Экспериментальный прототип 2D-шутера с волнами противников, разными моделями поведения врагов, магазином оружия и системой улучшений.
+  ⚠️ **Важно:** текущая WebGL-сборка нестабильна; возможны частые вылеты в браузере.
+* **[Space Conqueror](https://github.com/qa-gamedev/space-conqueror-shooter)** — [Играть в браузере](https://qa-gamedev.github.io/space-conqueror-shooter/). Вертикальный космический шутер с элементами RPG, двумя режимами игры, активными умениями и системой прокачки.
+* **[Labyrinth: Gravity Maze](https://github.com/qa-gamedev/unity-gravitymaze-game)** — [Играть в браузере](https://qa-gamedev.github.io/unity-gravitymaze-game/). Головоломка с процедурной генерацией лабиринтов и управлением гравитацией. Архивная WebGL-сборка игры, ранее опубликованной в Google Play.
 
 ## 🧰 Дополнительный инструмент
 
