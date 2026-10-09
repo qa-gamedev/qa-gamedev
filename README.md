@@ -36,6 +36,6 @@
 
 ## 📫 Контакты
 
-* **Telegram:** [@ТВОЙ_USERNAME](https://t.me/ТВОЙ_USERNAME)
-* **Email:** [ТВОЙ_EMAIL](mailto:ТВОЙ_EMAIL)
-* **Резюме:** [HH.ru — ссылка на резюме](ССЫЛКА_НА_HH)
+* **Telegram:** [@puchkovQA](https://t.me/puchkovQA)
+* **Email:** [ivanpuchkovqa@gmail.com](mailto:ivanpuchkovqa@gmail.com)
+* **Резюме:** [HH.ru — ссылка на резюме](https://pereslavl.hh.ru/resume/4a56aa7dff0b29b2c50039ed1f616d4c304b30)
