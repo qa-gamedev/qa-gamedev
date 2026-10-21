@@ -16,11 +16,11 @@
 
 ## 🔎 QA-портфолио
 
-* **[Mobile Game QA Case Study — ReelPG](https://app.notion.com/p/QA-Portfolio-ReelPG-Crazy-Panda-3d57e548c7f480a3aff2ceb4a54c4de9?source=copy_link)** — самостоятельный QA-кейс на публичной Android-версии игры из Google Play. Test Plan, 30+ пунктов чек-листов, 8 тест-кейсов, 6 задокументированных дефектов в Jira и итоговый Test Report.
+* **[Mobile Game QA Case Study — ReelPG](https://app.notion.com/p/QA-Portfolio-ReelPG-Crazy-Panda-3d57e548c7f480a3aff2ceb4a54c4de9?source=copy_link)** — Самостоятельный QA-кейс на публичной Android-версии игры из Google Play. Test Plan, 30+ пунктов чек-листов, 8 тест-кейсов, 6 задокументированных дефектов в Jira и итоговый Test Report.
 
 ## 🎮 Опубликованные игры
 
-* **[Zombie Pizza Delivery Simulator — Roblox](https://www.roblox.com/games/118698886876324/Zombie-Pizza-Delivery-Simulator)** — самостоятельно разработанная и опубликованная игра, набравшая 6 000+ визитов.
+* **[Zombie Pizza Delivery Simulator — Roblox](https://www.roblox.com/games/118698886876324/Zombie-Pizza-Delivery-Simulator)** — Самостоятельно разработанная и опубликованная игра, набравшая 6 000+ визитов.
 
 ## 👾 Unity / C# — игровые проекты
 
@@ -32,7 +32,7 @@
 
 ## 🧰 Дополнительный инструмент
 
-* 🖱️ **[Python AutoClicker Studio](https://github.com/qa-gamedev/game-qa-tools-and-code)** — утилита для Windows с графическим интерфейсом: повторяемые клики, макросы, последовательности действий и базовые проверки устойчивости UI к множественным нажатиям.
+* 🖱️ **[Python AutoClicker Studio](https://github.com/qa-gamedev/game-qa-tools-and-code)** — Утилита для Windows с графическим интерфейсом: повторяемые клики, макросы, последовательности действий и базовые проверки устойчивости UI к множественным нажатиям.
 * 📋 **[Smart Clipboard Manager (beta)](https://github.com/qa-gamedev/smart_clipboard)** — Умный менеджер буфера обмена для Windows с поддержкой OCR, экранного перевода, QR-кодов и изолированного секретного хранилища.
   
 ## 📫 Контакты
