@@ -32,8 +32,9 @@
 
 ## 🧰 Дополнительный инструмент
 
-* **[Python AutoClicker Studio](https://github.com/qa-gamedev/game-qa-tools-and-code)** — утилита для Windows с графическим интерфейсом: повторяемые клики, макросы, последовательности действий и базовые проверки устойчивости UI к множественным нажатиям.
-
+* 🖱️ **[Python AutoClicker Studio](https://github.com/qa-gamedev/game-qa-tools-and-code)** — утилита для Windows с графическим интерфейсом: повторяемые клики, макросы, последовательности действий и базовые проверки устойчивости UI к множественным нажатиям.
+* 📋 **[Smart Clipboard Manager (beta)](https://github.com/qa-gamedev/smart_clipboard)** — Умный менеджер буфера обмена для Windows с поддержкой OCR, экранного перевода, QR-кодов и изолированного секретного хранилища.
+  
 ## 📫 Контакты
 
 * **Telegram:** [@puchkovQA](https://t.me/puchkovQA)
